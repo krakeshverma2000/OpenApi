@@ -8,6 +8,7 @@ You can install Goby [here](https://chrome.google.com/webstore/detail/goby/jnkel
 
 ## Run your own node
 
+
 ```
 git clone https://github.com/GobyWallet/openapi.git
 cp settings.toml.default settings.toml
